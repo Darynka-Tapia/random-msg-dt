@@ -1,0 +1,25 @@
+{
+  "name": "random-msg-dt",
+  "version": "1.0.0",
+  "description": "Random String Messages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Darynka-Tapia/random-msg-dt.git"
+  },
+  "keywords": [],
+  "author": "Darynka Tapia",
+  "license": "MTI",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Darynka-Tapia/random-msg-dt/issues"
+  },
+  "homepage": "https://github.com/Darynka-Tapia/random-msg-dt#readme",
+  "bin": {
+    "random-msg-dt": "./bin/global.js"
+  },
+  "preferGlobal": true
+}
